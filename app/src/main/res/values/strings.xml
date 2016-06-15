@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BeaLib Test</string>
+    <string-array name="macAddress">
+        <item>Fmxy_107832</item>
+        <item>Fmxy_107835</item>
+        <item>Fmxy_107840</item>
+
+
+    </string-array>
+</resources>
